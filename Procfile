@@ -1,1 +1,1 @@
-web: gunicorn kevintest.wsgi
+web: gunicorn hackathon.wsgi
