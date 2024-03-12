@@ -23,7 +23,7 @@
 
 - Mobile
 
-<img src="documentation/images/Mobile_products.png" style="width:70%;">
+<img src="documentation/images/Mobile_products.png" style="width=50% height=50%">
 
 ### Product Detail Page Wireframe Design
 
@@ -33,7 +33,7 @@
 
 - Mobile
 
-<img src="documentation/images/Mobile_product_detail.png" style="width:70%;">
+<img src="documentation/images/Mobile_product_detail.png" style="width=50% height=50%">
 
 ### My Listings/Profile Page Wireframe Design
 
@@ -43,7 +43,7 @@
 
 - Mobile
 
-<img src="documentation/images/Mobile_mylistings.png" style="width:70%;">
+<img src="documentation/images/Mobile_mylistings.png" style="width=50% height=50%">
 
 
 
@@ -57,7 +57,7 @@
 
 - Mobile
 
-<img src="documentation/images/Mobile_inbox.png" style="width:70%;">
+<img src="documentation/images/Mobile_inbox.png" style="width=50% height=50%">
 
 
 <a id="user-stories"></a>
